@@ -1,0 +1,42 @@
+body{
+	width: auto;
+}
+h1{
+	float: middle;
+	color: blue;
+	font-size: 40px;
+	font-style: Calibri ;
+}
+strong{
+	color: red;
+}
+span{
+	color: red;
+}
+
+em{
+	color: blue;
+}
+
+h2{
+	color: darkred;
+
+}
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+}
+ul{
+	color: green;
+}
+
